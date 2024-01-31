@@ -1,7 +1,7 @@
 
 S-talk: Short for simple-talk, S-talk is a CLI chat interface for machines connected locally. It is a UDP two-way text chat.
 
-Description:I finish all requirements in assignment 2, i.e, 4 threads handle with different tasks and two mutex lockers are applied to two buffers (sendBuff and receiveBuff).
+Description: I finished all requirements in assignment 2, i.e, 4 threads handle with different tasks and two mutex lockers are applied to two buffers (sendBuff and receiveBuff).
 
 s-talk provides two-way local communication but only if the two users know the other's ip and listening socket information and firewalls don't get in the way (which they often do).
 
