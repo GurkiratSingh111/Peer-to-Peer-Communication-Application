@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Assignment2.dir/s-talk.c.o CMakeFiles/Assignment2.dir/receiver.c.o CMakeFiles/Assignment2.dir/screen.c.o CMakeFiles/Assignment2.dir/keyboard.c.o CMakeFiles/Assignment2.dir/sender.c.o CMakeFiles/Assignment2.dir/thread_canceller.c.o ../list.o -o Assignment2 
